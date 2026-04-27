@@ -1,0 +1,44 @@
+{
+  "title": "Turma da Monica Jovem",
+  "description": "TMJ",
+  "artist": "Mauricio de Sousa Editora",
+  "author": "Mauricio de Sousa Editora",
+  "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8Lv8xzMEofQ0jm6c7jjZ6yWxOvAeOHXVjwZ0jXBYKmJGJ68f7J9loD6H4-VJvOxYkfh3sXa0qNMcFxOlWNIGVki_GMUCzKvcfMoR417eoHz7ce-gtNsT-0raMTfgCdZ0uo1VEGBTThNNth1qAfgOfEEC2idk5Ug_Ce8P2WRNElFtzaiUpQHtXaY7/s16000/tmj-wallpaper-2.jpg",
+  "chapters": {
+    "00": {
+      "title": "",
+      "last_updated": "1777309802",
+      "groups": {
+        "winxclubmagazinesbr": "/proxy/api/imgchest/chapter/qb4zq9xp54j"
+      }
+    },
+    "01": {
+      "title": "",
+      "last_updated": "1777310234",
+      "groups": {
+        "winxclubmagazinesbr": "/proxy/api/imgchest/chapter/dl7pwj3n3yo"
+      }
+    },
+    "03": {
+      "title": "",
+      "last_updated": "1777310287",
+      "groups": {
+        "winxclubmagazinesbr": "/proxy/api/imgchest/chapter/vj4jjdln348"
+      }
+    },
+    "04": {
+      "title": "",
+      "last_updated": "1777310302",
+      "groups": {
+        "winxclubmagazinesbr": "/proxy/api/imgchest/chapter/n87w26aqx7x"
+      }
+    },
+    "02": {
+      "title": "",
+      "last_updated": "1777310317",
+      "groups": {
+        "winxclubmagazinesbr": "/proxy/api/imgchest/chapter/6eyrzge5x7p"
+      }
+    }
+  }
+}
