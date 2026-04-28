@@ -273,28 +273,50 @@
     },
     "38": {
       "title": "",
-      "last_updated": "1777342706",
-      "groups": {}
+      "last_updated": "1777379170",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zq3qg34j"
+      }
     },
     "39": {
       "title": "",
-      "last_updated": "1777342706",
-      "groups": {}
+      "last_updated": "1777379196",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gklkar7j"
+      }
     },
     "40": {
       "title": "",
-      "last_updated": "1777342706",
-      "groups": {}
+      "last_updated": "1777379145",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mrnrdb4d"
+      }
     },
     "41": {
       "title": "",
-      "last_updated": "1777342706",
-      "groups": {}
+      "last_updated": "1777379157",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87w2v2kz7x"
+      }
     },
     "42": {
       "title": "",
       "last_updated": "1777342706",
       "groups": {}
+    },
+    "44": {
+      "title": "",
+      "last_updated": "1777379320",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2mejp97l"
+      }
+    },
+    "43": {
+      "title": "",
+      "last_updated": "1777379410",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ldk8xqyx"
+      }
     }
   }
 }
