@@ -301,8 +301,10 @@
     },
     "42": {
       "title": "",
-      "last_updated": "1777342706",
-      "groups": {}
+      "last_updated": "1777382908",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45e8rw245"
+      }
     },
     "44": {
       "title": "",
@@ -316,6 +318,41 @@
       "last_updated": "1777379410",
       "groups": {
         "": "/proxy/api/imgchest/chapter/wl7ldk8xqyx"
+      }
+    },
+    "45": {
+      "title": "",
+      "last_updated": "1777382874",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24aoglw3yl"
+      }
+    },
+    "47": {
+      "title": "",
+      "last_updated": "1777382953",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846zxmewyx"
+      }
+    },
+    "46": {
+      "title": "",
+      "last_updated": "1777382966",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyva6b39y8"
+      }
+    },
+    "48": {
+      "title": "",
+      "last_updated": "1777383376",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pwqpqpyo"
+      }
+    },
+    "49": {
+      "title": "",
+      "last_updated": "1777383435",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqeqpqny2"
       }
     }
   }
