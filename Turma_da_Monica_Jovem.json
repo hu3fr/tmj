@@ -84,8 +84,10 @@
     },
     "100": {
       "title": "",
-      "last_updated": "1777406868",
-      "groups": {}
+      "last_updated": "1777431761",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ldmgg6yx"
+      }
     },
     "100.1": {
       "title": "",
@@ -696,23 +698,31 @@
     },
     "96": {
       "title": "",
-      "last_updated": "1777406868",
-      "groups": {}
+      "last_updated": "1777431753",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqedxxey2"
+      }
     },
     "97": {
       "title": "",
-      "last_updated": "1777406868",
-      "groups": {}
+      "last_updated": "1777431766",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jjwkk548"
+      }
     },
     "98": {
       "title": "",
-      "last_updated": "1777406868",
-      "groups": {}
+      "last_updated": "1777431784",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrzd99k7p"
+      }
     },
     "99": {
       "title": "",
-      "last_updated": "1777406868",
-      "groups": {}
+      "last_updated": "1777432205",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyeop2mx4d"
+      }
     }
   }
 }
